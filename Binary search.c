@@ -27,3 +27,4 @@ int main()
         else
         printf("Found!! Position : %d\n\n",mid+1);
 }
+
